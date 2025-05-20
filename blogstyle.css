@@ -1,0 +1,46 @@
+*{
+    margin-left: 10px;
+}
+.blackhole{
+    background-color: black;
+    color: white;
+}
+.blackhole-image{
+    width: 200px;
+    
+    
+}
+.blackhole-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.solar{
+    background-color: rgb(255, 110, 6);
+}
+
+.solar-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.solar-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.sun{
+    background-color: rgb(255, 34, 0);
+    color: white;
+}
+.sun-image{
+    width: fit-content;
+    height: auto;
+}
+    
+}
